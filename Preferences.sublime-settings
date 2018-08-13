@@ -1,0 +1,17 @@
+{
+    "bold_folder_labels": true,
+    "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+    "find_selected_text": true,
+    "font_face": "Courier",
+    "font_size": 15,
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "line_numbers": true,
+    "show_encoding": true,
+    "show_line_endings": true,
+    "theme": "Soda Dark 3.sublime-theme",
+    "translate_tabs_to_spaces": true
+}
