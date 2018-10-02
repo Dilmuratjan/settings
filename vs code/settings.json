@@ -1,0 +1,21 @@
+{
+    "editor.fontFamily": "Courier New",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.find.globalFindClipboard": true,
+    "editor.find.autoFindInSelection": true,
+    "editor.fontSize": 25,
+    "editor.minimap.enabled": false,
+    "editor.minimap.showSlider": "always",
+    "editor.showFoldingControls": "always",
+    "workbench.colorTheme": "Monokai",
+    "files.exclude": {
+        "**/*.meta": true
+    },
+    "window.titleBarStyle": "native",
+    "terminal.integrated.fontSize": 21,
+    "terminal.integrated.fontWeightBold": "normal",
+    "terminal.integrated.lineHeight": 0,
+    "workbench.activityBar.visible": true,
+    "workbench.statusBar.visible": true,
+    "git.autofetch": true,
+}
